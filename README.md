@@ -1,6 +1,7 @@
 # Eslint config appcom
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![npm version](https://badge.fury.io/js/eslint-config-appcom.svg)](https://badge.fury.io/js/eslint-config-appcom)
 
 This is the base eslint configuration file. This lints the code according
 to the appcom style guide, which is based on the airbnb code style.
