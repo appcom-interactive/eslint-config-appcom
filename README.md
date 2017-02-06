@@ -9,7 +9,7 @@ Find the appcom style guide definition [here](https://github.com/appcom-interact
 
 ## Installation
 
-`npm install @appcominteractive/eslint-config-appcom`
+`npm install eslint-config-appcom`
 
 ## Usage
 
