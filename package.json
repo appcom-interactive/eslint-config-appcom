@@ -18,6 +18,6 @@
     "eslint-plugin-jsx-a11y": "^3.0.2",
     "eslint-plugin-react": "^6.9.0"
   },
-  "author": "Stefan Neidig <s.neidig@appcom-interactive.de> (http://appcom-interactive.de)",
+  "author": "Stefan Neidig <s.neidig@appcom-interactive.de> (https://github.com/appcom-interactive/eslint-config-appcom)",
   "license": "Apache-2.0"
 }
