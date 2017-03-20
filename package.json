@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-appcom",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "This is a sharable configuration for eslint",
   "main": "eslint.json",
   "scripts": {
