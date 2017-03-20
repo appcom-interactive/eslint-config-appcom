@@ -1,6 +1,15 @@
 {
   "extends": "airbnb",
   "rules": {
+    "no-console": [
+      "warning",
+      {
+        "allow": [
+          "info",
+          "error"
+        ]
+      }
+    ],
     "comma-dangle": [
       "error",
       {
