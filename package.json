@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-nanogiants",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "This is a sharable configuration for eslint",
   "main": "eslint.json",
   "scripts": {
