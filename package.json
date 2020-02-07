@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-appcom",
+  "name": "eslint-config-nanogiants",
   "version": "1.0.9",
   "description": "This is a sharable configuration for eslint",
   "main": "eslint.json",
@@ -21,6 +21,6 @@
     "eslint-config-airbnb-base": "^12.1.0",
     "eslint-plugin-import": "^2.8.0"
   },
-  "author": "Stefan Neidig <s.neidig@appcom-interactive.de> (https://github.com/appcom-interactive/eslint-config-appcom)",
+  "author": "Stefan Neidig <s.neidig@nanogiants.de> (https://github.com/nanogiants/eslint-config-nanogiants)",
   "license": "Apache-2.0"
 }
