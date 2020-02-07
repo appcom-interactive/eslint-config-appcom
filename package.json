@@ -5,7 +5,7 @@
   "main": "eslint.json",
   "scripts": {
     "patch": "npm --no-git-tag-version version patch",
-    "postpatch": "git add package.json && git commit -m \"Bump version patch number\" package.json",
+    "postpatch": "git add package.json && git commit -m \"Bump version patch number\" package*",
     "postversion": "git push --tags"
   },
   "keywords": [
